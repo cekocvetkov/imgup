@@ -6,28 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48b1eed0-5a47-4a88-8976-d0ee2b9f54c3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="48b1eed0-5a47-4a88-8976-d0ee2b9f54c3" name="Default" comment="initial commit gecko">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgUpload.iml" beforeDir="false" afterPath="$PROJECT_DIR$/imgUpload.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgupload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/WEB-INF/classes/core/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/WEB-INF/classes/core/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/WEB-INF/classes/core/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/WEB-INF/classes/core/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/WEB-INF/classes/dbutils/DBConnectionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/WEB-INF/classes/dbutils/DBConnectionManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/WEB-INF/classes/entities/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/WEB-INF/classes/entities/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/WEB-INF/classes/exceptions/ConnectionException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/WEB-INF/classes/exceptions/ConnectionException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/WEB-INF/classes/exceptions/DAOException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/WEB-INF/classes/exceptions/DAOException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/WEB-INF/classes/service/UserManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/imgUpload_Web_exploded/WEB-INF/classes/service/UserManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controllers/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/core/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/core/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dbutils/DBConnectionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dbutils/DBConnectionManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entities/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/entities/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exceptions/ConnectionException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exceptions/ConnectionException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exceptions/DAOException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/exceptions/DAOException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/service/UserManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/service/UserManager.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -100,14 +80,32 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1164352788">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="20" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="76" column="41" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="41" />
+            <state relative-caret-position="242">
+              <caret line="66" column="20" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -133,7 +131,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/resources/UserResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="85">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -153,7 +151,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/core/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="194">
@@ -273,6 +271,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -354,15 +354,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="pom&#9;FILE&#9;file://C:/Users/gogatagogata/IdeaProjects/imgup/pom.xml&#10;web.&#9;FILE&#9;file://C:/Users/gogatagogata/IdeaProjects/imgup/web/WEB-INF/web.xml&#10;db&#9;FILE&#9;file://C:/Users/gogatagogata/IdeaProjects/imgup/src/main/resources/db.properties" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549915745108" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565862931291" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -624,6 +622,7 @@
       <workItem from="1550420235062" duration="780000" />
       <workItem from="1565711820529" duration="157000" />
       <workItem from="1565861820605" duration="546000" />
+      <workItem from="1565862618536" duration="251000" />
     </task>
     <task id="LOCAL-00001" summary="rename controllers">
       <created>1549825669824</created>
@@ -632,11 +631,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549825669824</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit gecko">
+      <created>1565862672136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565862672136</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24354000" />
+    <option name="totallyTimeSpent" value="24605000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -650,7 +656,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49324325" visible="true" weight="0.22995462" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49324325" visible="true" weight="0.23373677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -692,7 +698,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rename controllers" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename controllers" />
+    <MESSAGE value="initial commit gecko" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit gecko" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml.tld" />
@@ -755,13 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="76" column="41" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -778,7 +778,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/resources/UserResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="85">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -802,6 +802,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="66" column="20" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
         </state>
       </provider>
     </entry>
