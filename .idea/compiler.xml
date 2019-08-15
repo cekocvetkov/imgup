@@ -9,8 +9,8 @@
         <module name="imgUpload" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="imgUpload" target="1.5" />
+    <bytecodeTargetLevel target="10">
+      <module name="imgUpload" target="10" />
     </bytecodeTargetLevel>
   </component>
 </project>
